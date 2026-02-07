@@ -12,15 +12,15 @@
 
 <br>
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 2nd Year **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**
-- 🔭 Currently working on **Cryptocurrency Fraud Detection System**
-- 🌱 Learning **Machine Learning, Advanced DSA, and Database Optimization**
-- 💼 Looking for **Software Development Internships** for Summer 2026
-- 💡 Passionate about **Problem-Solving, Algorithms, and System Design**
-- 🎯 Goal: Contributing to impactful tech projects
-- 📫 Reach me: **darshan.v040@gmail.com**
+-  2nd Year **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**
+-  Currently working on **Cryptocurrency Fraud Detection System**
+-  Learning **Machine Learning, Advanced DSA, and Database Optimization**
+-  Looking for **Software Development Internships** for Summer 2026
+-  Passionate about **Problem-Solving, Algorithms, and System Design**
+-  Goal: Contributing to impactful tech projects
+-  Reach me: **darshan.v040@gmail.com**
 
 <br>
 
@@ -89,18 +89,9 @@
 <br>
 
 <div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
   <img src="https://komarev.com/ghpvc/?username=DARSHAN-V0909&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 </div>
 
-<div align="center">
 
-  ### ⭐ From [DARSHAN-V0909](https://github.com/YOUR_USERNAME)
-
-  **Show some ❤️ by starring my repositories!**
-
-</div>
