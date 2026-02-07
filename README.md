@@ -56,10 +56,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARSHAN-V0909&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN-V0909&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DARSHAN-V0909&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
