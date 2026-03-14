@@ -12,15 +12,15 @@
 
 <br>
 
-##  About Me
+## About Me
 
--  2nd Year **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**
--  Currently working on **Cryptocurrency Fraud Detection System**
--  Learning **Machine Learning, Advanced DSA, and Database Optimization**
--  Looking for **Software Development Internships** for Summer 2026
--  Passionate about **Problem-Solving, Algorithms, and System Design**
--  Goal: Contributing to impactful tech projects
--  Reach me: **darshan.v040@gmail.com**
+- 🎓 2nd Year **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**
+- 🔭 Currently working on **Cryptocurrency Fraud Detection System**
+- 🌱 Learning **Machine Learning, Advanced DSA, and Database Optimization**
+- 💼 Looking for **Software Development Internships** for Summer 2026
+- ⚡ Passionate about **Problem-Solving, Algorithms, and System Design**
+- 🎯 Goal: Contributing to impactful tech projects
+- 📫 Reach me: **darshan.v040@gmail.com**
 
 <br>
 
@@ -37,39 +37,36 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### AI / ML & Vector Search
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Core Competencies
-**Data Structures** • **Algorithms** • **Database Design** • **Machine Learning** • **Problem Solving** • **OOP**
+**Data Structures** • **Algorithms** • **Database Design** • **Machine Learning** • **REST APIs** • **RAG Systems** • **Problem Solving** • **OOP**
 
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DARSHAN-V0909&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DARSHAN-V0909&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 
 ## 🤝 Connect With Me
 
@@ -85,7 +82,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-
 <br>
 
 <div align="center">
@@ -93,5 +89,3 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 </div>
-
-
