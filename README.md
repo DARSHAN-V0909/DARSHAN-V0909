@@ -15,9 +15,8 @@
 ## About Me
 
 - 2nd Year **Computer Science Engineering** student at **Amrita Vishwa Vidyapeetham, Coimbatore**
-- Currently working on **Cryptocurrency Fraud Detection System**
 - Learning **Machine Learning, Advanced DSA, and Database Optimization**
-- Looking for **Software Development Internships** for Summer 2026
+- Looking for **Software Development Internships** 
 - Passionate about **Problem-Solving, Algorithms, and System Design**
 - Goal: Contributing to impactful tech projects
 - Reach me: **darshan.v040@gmail.com**
